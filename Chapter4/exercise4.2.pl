@@ -8,6 +8,6 @@
 % [1,2,3,4|[]]            correct, 4     
 % [[]|[]]                 correct, 1     
 % [[1,2]|4]               incorrect      
-% [[1,2],[3,4]|[5,6,7]]   incorrect      
+% [[1,2],[3,4]|[5,6,7]]   incorrect      (WRONG I THINK!)
 
 % Note: Still need to check if answers are correct!!!
