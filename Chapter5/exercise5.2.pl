@@ -14,4 +14,4 @@
 increment(X, Y) :- Y is X+1.
 
 % b) Solution
-sum(X, Y, Z), :- Z is X+Y.
+sum(X, Y, Z) :- Z is X+Y.
