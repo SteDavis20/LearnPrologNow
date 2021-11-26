@@ -7,3 +7,7 @@
 % (or any other) predicates.
 
 % [1,2,3,4] and [4,2,3,1] is true
+
+% Tip from lecture: 
+% List 1: = |H| ... |H2|
+% List 2: = |H2| ... |H|
